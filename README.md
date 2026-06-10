@@ -1,16 +1,18 @@
 # AI-Open-Source-Capstone
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Unable to infer through a class constructor even with type hints 
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Shreyal Sharma]  
+**Issue:** [[GitHub issue link](https://github.com/pylint-dev/astroid/issues/769)]  
+**Status:** [Phase I] [Complete]
 
 ---xa
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because it focuses on Python type inference and static analysis, which are areas I am interested in exploring more deeply. The bug is well-defined, reproducible, and addresses a real limitation in Astroid's inference engine. Since Astroid powers developer tools that rely on understanding Python code, improving its ability to infer types through constructor arguments would have a meaningful impact on the developer experience. I find it especially interesting because it involves reasoning about how information flows through object-oriented code rather than simply fixing a syntax or documentation issue.
+
+This issue aligns well with my background in Python and software engineering while also pushing me to learn new concepts such as AST traversal, symbol resolution, and type inference. Through this contribution, I hope to gain a deeper understanding of how static analysis tools work internally, how large open-source Python projects are structured, and how maintainers design inference systems that balance correctness and performance. I believe it is a strong opportunity to both contribute value to the project and strengthen skills that are relevant to developer tooling, AI-assisted coding systems, and software engineering in general.
 
 ---
 
